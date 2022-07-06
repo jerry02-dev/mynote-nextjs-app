@@ -1,13 +1,10 @@
 
 <p align="center">
   <br />
-  <img width="100" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/800px-Nextjs-logo.svg.png" alt="">
+  <img width="100" src="https://assets.vercel.com/image/upload/q_auto/front/assets/design/white-nextjs.png" alt="">
   <br />
   <br />
 </p>
-
-<h2 align="center">Next.js</h2>
-
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
