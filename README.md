@@ -37,7 +37,7 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 <p align="center">
   <br />
-  <img width="100" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/tailwindcss/tailwindcss-ar21.svg" alt="Tailwind CSS logo">
+  <img width="100" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png" alt="Tailwind CSS logo">
   <br />
   <br />
 </p>
